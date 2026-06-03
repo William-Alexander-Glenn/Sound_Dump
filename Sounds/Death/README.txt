@@ -1,0 +1,1 @@
+Plays when you die. Death sound effects would be unique for each character you play as.

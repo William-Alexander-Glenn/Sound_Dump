@@ -1,0 +1,1 @@
+All of these sound effects are for a hypothetical fan game of Dandy's World known as Anemoia. Anemoia never ended up being more than a concept, but I'm planning on repurposing various aspects of it for an original game.

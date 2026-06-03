@@ -1,0 +1,1 @@
+These sound effects play when you are spotted by an enemy. "SpottedMain" plays when you are spotted by a Main Character (super difficult enemies).

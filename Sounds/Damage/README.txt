@@ -1,0 +1,1 @@
+"Damage" plays when you take damage. "MainDamage" plays when you take a hit from a Main Character.
